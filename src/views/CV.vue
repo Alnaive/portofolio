@@ -4,15 +4,17 @@
     </div>
     <section class="text-black dark:text-white body-font">
       <div  class="container px-5 mx-auto flex flex-col bg-white dark:bg-slate-800">
-        <div  class="md:w-3/6 mx-auto rounded-lg flex">
-          <div id="exportData" class="bg-white dark:bg-slate-800 p-2 shadow-lg rounded-lg">
+        <div  class="md:w-3/6 mx-auto rounded-lg flex mb-5">
+          <div id="exportData" class=" bg-white dark:bg-slate-800 p-2 shadow-lg rounded-lg">
             <div  class="flex flex-col  sm:flex-row mt-5 rounded-lg">
-            <div class="sm:w-1/3 text-center sm:pr-8 sm:py-8 animate-in fade-in ease-linear ">
-            <div class="w-32 h-32 rounded-full inline-flex items-center justify-center bg-gray-200 text-gray-400">
-                <img  class="object-fit" src="https://media.discordapp.net/attachments/873515567930290237/1041695411930398742/4_x_6_1985.jpg?width=467&height=701" alt="" srcset="">
-            </div>
-              <div class="flex flex-col text-center justify-center">
-                <h2 class="font-medium title-font mt-4 text-lg">Muhammad Fery Perdana S.Kom</h2>
+            <div class="sm:w-1/3  sm:pr-8 sm:py-8 animate-in fade-in ease-linear ">
+                <div class="text-center">
+                    <div class="w-32 h-32 inline-flex items-center justify-center bg-gray-200 text-gray-400">
+                    <img  class="object-contain " src="https://media.discordapp.net/attachments/873515567930290237/1041695411930398742/4_x_6_1985.jpg?width=467&height=701" alt="" srcset="">
+                    </div>
+                </div>
+              <div class="flex flex-col ">
+                <h2 class="font-medium title-font mt-4 text-lg text-center ">Muhammad Fery Perdana S.Kom</h2>
                 <div class="w-full ml-2 h-1 bg-indigo-500 rounded mt-2 mb-4"></div>
                 <h1 class="flex mt-2 mb-5 shadow-lg rounded-lg dark:bg-indigo-500 p-2"><Icon icon="bxs:contact" width="32" height="32" /> <span class="ml-2 text-lg ">Kontak</span> </h1>
                 <div class="flex space-y-2 ml-2 flex-col">
@@ -27,6 +29,10 @@
                     <div class="flex items-center space-x-2">
                         <Icon icon="bxl:github" width="32" height="32" />
                         <h1><a href="https://github.com/Alnaive">Alnaive</a></h1>
+                    </div>
+                    <div class="flex items-center space-x-2">
+                        <Icon icon="mdi:web" width="32" height="32" />
+                        <h1><a href="https://feryperdana-gusx.vercel.app">feryperdana-gusx.vercel.app</a></h1>
                     </div>
                 </div>
                 <h1 class="flex mt-5 shadow-lg rounded-lg dark:bg-indigo-500 p-2"><Icon icon="bi:database-gear" width="32" height="32" /> <span class="ml-2 text-lg ">Keahlian</span> </h1>
@@ -52,7 +58,8 @@
             </div>
             <div class="sm:w-2/3 sm:pl-8 sm:py-8 sm:border-l border-gray-200 sm:border-t-0 border-t mt-4 pt-4 sm:mt-0 text-center sm:text-left">
               <p class="animate-in fade-in ease-linear duration-300 leading-relaxed text-lg mb-4  ">
-                Lulusan sistem informasi dari universitas mulia. Memiliki kemampuan dalam menggunakan teknologi web framework seperti Laravel, dan Vue.js dan berpengalaman dalam membuat <i>user interface</i> menggunakan TailwindCss. 
+                Saya adalah seorang programmer yang memiliki kemampuan dalam menggunakan teknologi web framework seperti Laravel, 
+                dan Vue.js. Saya sangat menyukai perkembangan teknologi sehingga membuat saya ingin menjadi seorang IT Generalist.
               </p>
               <h1 class="text-title font-medium flex dark:bg-indigo-500 p-2 rounded-lg shadow-lg mb-5 md:mb-0"><Icon icon="la:school" width="32" height="32" /><span class="ml-2 text-lg ">Pendidikan</span></h1>
                 <div class=" md:pr-10 md:py-6">
@@ -121,12 +128,11 @@
 </template>
 <script setup>
 
-import { ref } from 'vue';
+import { ref,defineProps } from 'vue';
 import { Icon } from '@iconify/vue';
 import domtoimage from 'dom-to-image';
 import { saveAs } from 'file-saver';
 import domToPdf from 'dom-to-pdf';
-
 
 function exportImg(){
         var node = document.getElementById("exportData");
