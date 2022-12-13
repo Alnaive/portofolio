@@ -19,8 +19,8 @@ onMounted(() => {
 <template>
 <div class="w-screen h-screen flex flex-col md:flex-row space-x-4 justify-center  items-center" v-if="!overlayHidden">
   <div class="w-16 h-16 md:w-24 md:h-24 rounded-full animate-spin border-8 border-solid border-green-500 border-t-transparent"></div>
-  <h1 class="text-3xl text-center mt-4 md:mt-none md:text-left"> Loading...
-  <br> <span class="text-lg">This may take a few seconds, please don't close this page.</span>
+  <h1 class="text-3xl text-center mt-4 md:mt-none md:text-left"> Tunggu Sebentar...
+  <br> <span class="text-lg">Cuman animasi timeout jangan ditutup</span>
   </h1>
 </div>
 <div v-else class="h-auto md:h-auto dark:bg-gray-800 bg-white animate-in zoom-in-90">

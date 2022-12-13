@@ -22,7 +22,7 @@
                     </div>
                     <div class="flex items-center space-x-2">
                         <Icon icon="entypo:mail" width="32" />
-                        <h1>ferypalnair@gmail.com</h1>
+                        <h1>feryperdana@outlook.com</h1>
                     </div>
                 </div>
               </div>
@@ -85,8 +85,25 @@
           <p class="leading-relaxed text-base">DBMS andalan fullstack developer</p>
         </div>
       </div>
-      
       <div class="xl:w-1/3 md:w-1/2 p-4">
+        <div class="border border-gray-200 p-6 rounded-lg">
+          <div class="w-10 h-10 inline-flex items-center justify-center rounded-full bg-indigo-100 text-indigo-500 mb-4">
+            <Icon icon="logos:mongodb" width="24" height="24" />
+          </div>
+          <h2 class="text-lg  font-medium title-font mb-2">MongoBD</h2>
+          <p class="leading-relaxed text-base">NoSQL yang saya gunakan</p>
+        </div>
+      </div>
+      <div class="xl:w-1/3 md:w-1/2 p-4">
+        <div class="border border-gray-200 p-6 rounded-lg">
+          <div class="w-10 h-10 inline-flex items-center justify-center rounded-full bg-indigo-100 text-indigo-500 mb-4">
+            <Icon icon="logos:nodejs" width="24" height="24" />
+          </div>
+          <h2 class="text-lg  font-medium title-font mb-2">Node.Js</h2>
+          <p class="leading-relaxed text-base">Backend javascript yang saya geunakan dengan framework Express.js</p>
+        </div>
+      </div>
+      <!-- <div class="xl:w-1/3 md:w-1/2 p-4">
         <div class="border border-gray-200 p-6 rounded-lg">
           <div class="w-10 h-10 inline-flex items-center justify-center rounded-full bg-indigo-100 text-indigo-500 mb-4">
             <Icon icon="cib:unreal-engine" width="24" height="24" />
@@ -96,7 +113,7 @@
             Membuat level desain adalah bagian favorite apalagi sekarang sudah banyak asset gratis dari Epic Game.
           </p>
         </div>
-      </div>
+      </div> -->
     </div>
   </div>
 </section>
