@@ -122,7 +122,7 @@
                     </div>
                     <div class="flex-grow pl-4">
                         <h2 class="font-medium title-font text-lg mb-1 tracking-wider">Genshin-tech.com</h2>
-                        <h2 class="font-medium title-font text-sm mb-1 tracking-wider">Inertia.js, Laravel REST API, TailwindCss, Vue.js.</h2>
+                        <h2 class="font-medium title-font text-sm mb-1 tracking-wider">Laravel REST API, TailwindCss, Vue.js.</h2>
                         <p class="leading-relaxed">
                             Sebuah aplikasi untuk membuat <i>character card</i> secara otomatis serta mengumpulkan data untuk membuat statistik sebuah karakter.
                         </p>

@@ -5,7 +5,7 @@
           <div class="flex flex-col items-center sm:flex-row mt-10">
             <div class="sm:w-1/3 text-center sm:pr-8 sm:py-8 animate-in fade-in ease-linear ">
               <div class="w-32 h-32 rounded-full inline-flex items-center justify-center bg-gray-200 text-gray-400">
-                <img class="object-fit rounded-full" src="https://scontent-sin6-3.xx.fbcdn.net/v/t1.6435-9/90614411_2929833050395746_7458422833643782144_n.jpg?stp=dst-jpg_s552x414&_nc_cat=105&ccb=1-7&_nc_sid=174925&_nc_eui2=AeHbgWGsxpdYsrNKsFPEtnbL-Pk5KH09PLD4-TkofT08sK8w6EqTEuqmQq4Lb-vpKGAFHrtef0oCaCuQzjbGsErk&_nc_ohc=cMwHqux9jKMAX-wnkV6&_nc_ht=scontent-sin6-3.xx&oh=00_AfCkyPd6AnrUFfa_UzXzJXko4epaR5EKQMOGswq8yyJuPw&oe=639A6C0D" alt="" srcset="">
+                <img class="object-fit rounded-full" src="https://media.discordapp.net/attachments/873515567930290237/1054257646523400212/26233065_1637187756326955_9085236053320698975_o.png?width=701&height=701" alt="" srcset="">
               </div>
               <div class="flex flex-col items-center text-center justify-center">
                 <h2 class="font-medium title-font mt-4  text-lg">Muhammad Fery Perdana S.Kom</h2>

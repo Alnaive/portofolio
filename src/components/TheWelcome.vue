@@ -10,7 +10,7 @@
       </div>
     </div>
     <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 md:mr-24">
-      <img class="object-cover object-center rounded" alt="hero" src="https://scontent-sin6-3.xx.fbcdn.net/v/t1.6435-9/90614411_2929833050395746_7458422833643782144_n.jpg?stp=dst-jpg_s552x414&_nc_cat=105&ccb=1-7&_nc_sid=174925&_nc_eui2=AeHbgWGsxpdYsrNKsFPEtnbL-Pk5KH09PLD4-TkofT08sK8w6EqTEuqmQq4Lb-vpKGAFHrtef0oCaCuQzjbGsErk&_nc_ohc=cMwHqux9jKMAX-wnkV6&_nc_ht=scontent-sin6-3.xx&oh=00_AfCkyPd6AnrUFfa_UzXzJXko4epaR5EKQMOGswq8yyJuPw&oe=639A6C0D">
+      <img class="object-cover object-center rounded" alt="hero" src="https://media.discordapp.net/attachments/873515567930290237/1054257646523400212/26233065_1637187756326955_9085236053320698975_o.png?width=701&height=701">
     </div>
   </div>
 </section>
