@@ -34,6 +34,10 @@
                         <Icon icon="mdi:web" width="32" height="32" />
                         <h1><a href="https://feryperdana-gusx.vercel.app">feryperdana-gusx.vercel.app</a></h1>
                     </div>
+                    <div class="flex items-center space-x-2">
+                        <Icon icon="mdi:linkedin" width="32" height="32"/>
+                        <h1><a href="www.linkedin.com/in/fery-perdana">Fery Perdana</a></h1>
+                    </div>
                 </div>
                 <h1 class="flex mt-5 shadow-lg rounded-lg dark:bg-indigo-500 p-2"><Icon icon="bi:database-gear" width="32" height="32" /> <span class="ml-2 text-lg ">Keahlian</span> </h1>
                 <div class="flex space-y-2 ml-2 flex-col mt-5">
