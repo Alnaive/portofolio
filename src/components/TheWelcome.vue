@@ -24,7 +24,7 @@
       >
         <img
           class="rounded-lg h-[420px] w-[420px] object-cover"
-          src="https://cdn.discordapp.com/attachments/1164452737262551050/1335634593650577448/20250127_195259.jpg?ex=67a0e226&is=679f90a6&hm=0d6a1808ab990fc19365ec828de42524082cb540912f5d8813c588f7391f9ee1&"
+          src="https://cdn.discordapp.com/attachments/1164452737262551050/1335634593650577448/20250127_195259.jpg?ex=67b00b66&is=67aeb9e6&hm=88d14f1dedd450f91ae8dae6ac08a0162acd5489d97405eba108c9132adf2ec4&"
         />
       </div>
     </div>
@@ -35,140 +35,86 @@
         <div class="flex flex-col sm:flex-row mt-10">
           <div class="sm:w-1/3 text-center sm:pr-8 sm:py-8">
             <div
-              class="w-20 h-20 rounded-full inline-flex items-center justify-center bg-gray-200 text-gray-400"
+              class="h-20 inline-flex items-center justify-center bg-gray-200 text-gray-400"
             >
-              <svg
-                fill="none"
-                stroke="currentColor"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
-                class="w-10 h-10"
-                viewBox="0 0 24 24"
-              >
-                <path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"></path>
-                <circle cx="12" cy="7" r="4"></circle>
-              </svg>
+              <img
+                class="rounded-lg h-[320px] w-[420px] scale-200 object-cover"
+                src="https://cdn.discordapp.com/attachments/1164452737262551050/1325512475285913690/IMG_20250105_214736_749.jpg?ex=67b02270&is=67aed0f0&hm=3341c2792b132b45fbe029f5a09ce472a1ac65ed25a8c1e2046bf2e0b7858312&"
+                alt=""
+                srcset=""
+              />
             </div>
-            <div class="flex flex-col items-center text-center justify-center">
-              <h2 class="font-medium title-font mt-4 text-gray-900 text-lg">
-                Phoebe Caulfield
-              </h2>
-              <div class="w-12 h-1 bg-indigo-500 rounded mt-2 mb-4"></div>
-              <p class="text-base">
-                Raclette knausgaard hella meggs normcore williamsburg enamel pin
-                sartorial venmo tbh hot chicken gentrify portland.
-              </p>
-            </div>
+            <img
+              class="rounded-lg h-[320px] w-[420px] scale-200 object-cover"
+              src="https://cdn.discordapp.com/attachments/1164452737262551050/1284174952131461198/1726241545304.jpg?ex=67b00adf&is=67aeb95f&hm=4143d8bee785329a514ff66778752ab10d652be6ef1cb5a2f2751977c52482ff&"
+              alt=""
+              srcset=""
+            />
           </div>
           <div
-            class="sm:w-2/3 sm:pl-8 sm:py-8 sm:border-l border-gray-200 sm:border-t-0 border-t mt-4 pt-4 sm:mt-0 text-center sm:text-left"
+            class="flex space-x-4 sm:w-2/3 sm:pl-8 sm:py-8 sm:border-l border-gray-200 sm:border-t-0 border-t mt-4 pt-4 sm:mt-0 text-center sm:text-left"
           >
-            <p class="leading-relaxed text-lg mb-4">
-              Meggings portland fingerstache lyft, post-ironic fixie man bun
-              banh mi umami everyday carry hexagon locavore direct trade art
-              party. Locavore small batch listicle gastropub farm-to-table
-              lumbersexual salvia messenger bag. Coloring book flannel truffaut
-              craft beer drinking vinegar sartorial, disrupt fashion axe
-              normcore meh butcher. Portland 90's scenester vexillologist forage
-              post-ironic asymmetrical, chartreuse disrupt butcher paleo
-              intelligentsia pabst before they sold out four loko. 3 wolf moon
-              brooklyn.
-            </p>
-            <div class="md:pr-10 md:py-6">
-              <div class="flex relative pb-4">
-                <div
-                  class="h-full w-10 absolute inset-0 flex items-center justify-center"
-                >
-                  <div class="h-full w-1 bg-gray-200 pointer-events-none"></div>
-                </div>
-                <div
-                  class="flex-shrink-0 w-10 h-10 rounded-full bg-gray-300 dark:bg-indigo-500 inline-flex items-center justify-center relative z-10 font-bold"
-                >
-                  1
-                </div>
-                <div class="flex-grow pl-4">
-                  <h2
-                    class="font-medium title-font text-md mb-1 tracking-wider"
-                  >
-                    2023
-                  </h2>
-                  <h2
-                    class="font-medium title-font text-md mb-1 tracking-wider"
-                  >
-                    IT Teknisi/Support
-                  </h2>
-                  <h2
-                    class="font-medium title-font text-md mb-1 tracking-wider"
-                  >
-                    PT. Perindustrian Sawit Synergi
-                  </h2>
-                  <div class="flex">
-                    <ul>
-                      IT Technician Responsibilities:
-                      <li>
-                        Managed IT infrastructure projects, including the
-                        development of a server room in collaboration with
-                        vendors.
-                      </li>
-                      <li>
-                        Oversaw LAN cable installation, server rack assembly,
-                        access door setup, CCTV installation, and internet
-                        configuration using point-to-point and multi-point
-                        methods with MikroTik and Ubiquiti radio devices.
-                      </li>
-                    </ul>
-                  </div>
-
-                  <ul>
-                    IT Support Responsibilities:
-                    <li>
-                      Handled administrative tasks such as asset management and
-                      procurement of equipment.
-                    </li>
-                    <li>
-                      Performed installation and maintenance of PCs, laptops,
-                      printers, and drone systems.
-                    </li>
-                    <li>
-                      Developed simple web applications to meet internal company
-                      needs.
-                    </li>
-                  </ul>
+            <div class="flex flex-col space-y-4">
+              <h1 class="font-bold text-4xl text-white">
+                Here what you can expect from me...
+              </h1>
+              <div class="card bg-primary text-primary-content w-96 ml-10">
+                <div class="card-body">
+                  <h2 class="card-title">Website</h2>
+                  <p>If a dog chews shoes whose shoes does he choose?</p>
+                  <div class="card-actions justify-end"></div>
                 </div>
               </div>
-              <div class="flex relative pb-4">
-                <div
-                  class="h-full w-10 absolute inset-0 flex items-center justify-center"
-                >
-                  <div class="h-full w-1 bg-gray-200 pointer-events-none"></div>
+              <div class="flex space-x-4">
+                <div class="card bg-primary text-primary-content w-56">
+                  <div class="card-body">
+                    <h2 class="card-title">Laravel</h2>
+                    <p>If a dog chews shoes whose shoes does he choose?</p>
+                    <div class="card-actions justify-end"></div>
+                  </div>
                 </div>
-                <div
-                  class="flex-shrink-0 w-10 h-10 rounded-full bg-gray-300 dark:bg-indigo-500 inline-flex items-center justify-center relative z-10 font-bold"
-                >
-                  2
+                <div class="card bg-primary text-primary-content w-56">
+                  <div class="card-body">
+                    <h2 class="card-title">Express.js</h2>
+                    <p>If a dog chews shoes whose shoes does he choose?</p>
+                    <div class="card-actions justify-end"></div>
+                  </div>
                 </div>
-                <div class="flex-grow pl-4">
-                  <h2
-                    class="font-medium title-font text-md mb-1 tracking-wider"
-                  >
-                    2017
-                  </h2>
-                  <h2
-                    class="font-medium title-font text-md mb-1 tracking-wider"
-                  >
-                    IT Support
-                  </h2>
-                  <h2
-                    class="font-medium title-font text-md mb-1 tracking-wider"
-                  >
-                    Bawaslu kaltim
-                  </h2>
-                  <p class="leading-relaxed">
-                    Magang di bawalsu samarinda selama 6 bulan dan selama magang
-                    saya membuat sebuah project CRUD sederhana untuk sebuah
-                    landing page menggunakan stack php dan bootstrap
+              </div>
+              <div class="card bg-primary text-primary-content w-96">
+                <div class="card-body">
+                  <h2 class="card-title">Vue.Js</h2>
+                  <p>If a dog chews shoes whose shoes does he choose?</p>
+                  <div class="card-actions justify-end"></div>
+                </div>
+              </div>
+            </div>
+            <div class="flex flex-wrap space-y-4">
+              <div class="card bg-primary text-primary-content w-96">
+                <div class="card-body">
+                  <h2 class="card-title">Infrastructure</h2>
+                  <p>
+                    Lan termination Lorem ipsum dolor sit amet consectetur
+                    adipisicing elit. Itaque iste dicta excepturi reprehenderit,
+                    delectus illum voluptatibus placeat expedita quia dolores
+                    aperiam nesciunt consequatur, omnis possimus facilis minus
+                    doloremque error consequuntur.
                   </p>
+                  <div class="card-actions justify-end"></div>
+                </div>
+              </div>
+              <div class="card bg-primary text-primary-content w-96">
+                <div class="card-body">
+                  <h2 class="card-title">Hardware</h2>
+                  <p>If a dog chews shoes whose shoes does he choose?</p>
+                  <div class="card-actions justify-end"></div>
+                </div>
+              </div>
+              <div class="card bg-primary text-primary-content w-96">
+                <div class="card-body">
+                  <h2 class="card-title">Photography</h2>
+                  <p>If a dog chews shoes whose shoes does he choose?</p>
+                  <div class="card-actions justify-end"></div>
                 </div>
               </div>
             </div>
