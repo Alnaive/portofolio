@@ -5,7 +5,7 @@
             <div class="lg:w-1/2 w-full mb-6 lg:mb-0">
                 <a href="https://github.com/Alnaive" class="flex space-x-2">
                 <Icon icon="bxl:github" width="32" height="32" />
-                <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 ">Project</h1>
+                <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 ">Web Project</h1>
                 </a>
             </div>
             </div>
@@ -41,6 +41,15 @@
                 <h3 class="tracking-widest text-xs font-medium title-font">Laravel Rest API, Vue.js</h3>
                 <h2 class="text-lg  font-medium title-font mb-4">Genshin-tech</h2>
                 <p class="leading-relaxed text-base">Upgrade dari genshin app, menggunakan API Enka.Network untuk get data secara otomatis dan menggunakan Rest API dari laravel sebagai backend dan vue.js sebagai frontend</p>
+                </div>
+            </a>
+            </div>
+            <div class="xl:w-1/4 md:w-1/2 p-4">
+                <a href="https://genshin-tech.com">
+                <div class="bg-white shadow-md dark:bg-gray-500 p-6 rounded-lg">
+                <h3 class="tracking-widest text-xs font-medium title-font">Node.js, Rest API, Vue.js</h3>
+                <h2 class="text-lg  font-medium title-font mb-4">Rails Express</h2>
+                <p class="leading-relaxed text-base"></p>
                 </div>
             </a>
             </div>

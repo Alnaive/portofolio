@@ -5,7 +5,7 @@
           <div class="flex flex-col items-center sm:flex-row mt-10">
             <div class="sm:w-1/3 text-center sm:pr-8 sm:py-8 animate-in fade-in ease-linear ">
               <div class="w-32 h-32 rounded-full inline-flex items-center justify-center bg-gray-200 text-gray-400">
-                <img class="object-fit rounded-full" src="https://media.discordapp.net/attachments/873515567930290237/1054257646523400212/26233065_1637187756326955_9085236053320698975_o.png?width=701&height=701" alt="" srcset="">
+                <img class="object-fit rounded-full" src="https://media.discordapp.net/attachments/1164452737262551050/1284174952479854704/1726241545340.jpg?ex=67828f1f&is=67813d9f&hm=37badde5b128bbeef92dc28eebe5c2b4e883e9c2910a56da3d66c6748b207ca3&=&format=webp&width=561&height=701" alt="" srcset="">
               </div>
               <div class="flex flex-col items-center text-center justify-center">
                 <h2 class="font-medium title-font mt-4  text-lg">Muhammad Fery Perdana S.Kom</h2>
@@ -29,9 +29,15 @@
             </div>
             <div class="sm:w-2/3 sm:pl-8 sm:py-8 sm:border-l border-gray-200 sm:border-t-0 border-t mt-4 pt-4 sm:mt-0 text-center sm:text-left">
               <p class="animate-in fade-in ease-linear duration-300 leading-relaxed text-lg mb-4  ">
-                <i>Fresh graduate</i> dari universitas mulia bidang studi S1 sistem informasi.
-                Memiliki pengalaman membuat website dengan framework laravel dan vue.js.
-                Bercita-cita sebagai <i>game architect</i> dan sangat menyukai hal-hal berbau astronomi.
+                Hi, I'm Fery!
+
+I have extensive experience in web programming, with a preference for the Vue.js stack for frontend development, and JavaScript/PHP for backend development. I am skilled in working with both MongoDB and MySQL/MariaDB databases.
+
+Additionally, I have a strong understanding of APIs. One of my notable projects was creating an application to generate character info from the game Honkai Star Rail using an API.
+
+In the Microsoft ecosystem, I am proficient in Power Apps, SharePoint, MS Lists, and Power Automate, which I have used to develop approval workflows.
+
+From an infrastructure perspective, I have hands-on experience with cable management, crimping, Mikrotik, and setting up Point-to-Point / Point-to-Multi-Point topologies. I am also experienced in setting up routers, HikVision CCTV systems, and mapping buildings for cable installation.
               </p>
               <button class="animate-in fade-in ease-linear duration-300 text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg" @click="showSkill()">Lihat Kemampuan</button>
             </div>

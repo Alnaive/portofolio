@@ -4,7 +4,7 @@
     </div>
     <section class="text-black dark:text-white body-font">
       <div id="exportPDF" class="container px-5 mx-auto flex flex-col bg-white dark:bg-slate-800">
-        <div  class=" md:h-[1122.519685px] md:w-[793.7007874px] md:relative mx-auto rounded-lg flex mb-5">
+        <div  class="  md:w-[793.7007874px] md:relative mx-auto rounded-lg flex mb-5">
           <div id="exportData" class=" bg-white dark:bg-slate-800 p-2 shadow-lg rounded-lg ">
             <div  class="flex flex-col  sm:flex-row mt-5 rounded-lg">
             <div class="sm:w-1/3  sm:pr-8 sm:py-8 md:w-72">
@@ -14,14 +14,10 @@
                     </div>
                 </div>
               <div class="flex flex-col ">
-                <h2 class="font-medium title-font mt-4 text-lg text-center ">Muhammad Fery Perdana <br>Web Programmmer</h2>
+                <h2 class="font-medium title-font mt-4 text-lg text-center ">Muhammad Fery Perdana <br>IT Generalist</h2>
                 <div class="w-full ml-2 h-1 bg-indigo-500 rounded mt-2 mb-4"></div>
                 <h1 class="flex mt-2 mb-5 shadow-lg rounded-lg dark:bg-indigo-500 p-2"><Icon icon="bxs:contact" width="32" height="32" /> <span class="ml-2 text-lg ">Kontak</span> </h1>
-                <div class="flex space-y-2 ml-2 flex-col">
-                    <div class="flex items-center space-x-2">
-                        <Icon icon="bi:phone" width="32" />
-                        <h1>081242397622</h1>
-                    </div>
+                <div class="flex space-y-2 ml-2 flex-col"> 
                     <div class="flex items-center space-x-2">
                         <Icon icon="ic:round-mail-outline" width="32" />
                         <h1>feryperdana@outlook.com</h1>
@@ -42,28 +38,16 @@
                 <h1 class="flex mt-5 shadow-lg rounded-lg dark:bg-indigo-500 p-2"><Icon icon="bi:database-gear" width="32" height="32" /> <span class="ml-2 text-lg ">Keahlian</span> </h1>
                 <div class="flex space-y-2 ml-2 flex-col mt-5">
                     <div class="flex items-center space-x-2">
-                        <Icon icon="logos:laravel" width="32" height="32" />
-                        <h1>Laravel</h1>
+                        <Icon icon="ic:baseline-developer-mode" width="32" height="32" />
+                        <h1>Fullstack Web Developer</h1>
                     </div>
                     <div class="flex items-center space-x-2">
-                        <Icon icon="logos:mongodb" width="32" height="32" />
-                        <h1>MongoDB</h1>
+                        <Icon icon="ri:building-fill" width="32" height="32" />                        
+                        <h1>IT infrastructure</h1>
                     </div>
                     <div class="flex items-center space-x-2">
-                        <Icon icon="logos:mysql" width="32" height="32" />
-                        <h1>MySql</h1>
-                    </div>
-                    <div class="flex items-center space-x-2">
-                        <Icon icon="logos:nodejs" width="32" height="32" />
-                        <h1>Node.js</h1>
-                    </div>
-                    <div class="flex items-center space-x-2">
-                        <Icon icon="logos:tailwindcss-icon" width="32" height="32" />
-                        <h1>TailwindCss</h1>
-                    </div>
-                    <div class="flex items-center space-x-2">
-                        <Icon icon="logos:vue" width="32" height="32" />
-                        <h1>Vue.js</h1>
+                        <Icon icon="eos-icons:drone" width="32" height="32" />
+                        <h1>Drone</h1>
                     </div>
                 </div>
               </div>
@@ -108,8 +92,29 @@
                         1
                     </div>
                     <div class="flex-grow pl-4">
-                        <h2 class="font-medium title-font text-sm mb-1 tracking-wider">2017</h2>
-                        <p class="leading-relaxed">Magang di bawalsu samarinda dan selama magang saya membuat sebuah project CRUD sederhana untuk sebuah landing page</p>
+                        <h2 class="font-medium title-font text-md mb-1 tracking-wider">2023 - {{ getThisYear() }}</h2>
+                        <h2 class="font-medium title-font text-md mb-1 tracking-wider"> IT Teknisi/Support</h2>
+                        <h2 class="font-medium title-font text-md mb-1 tracking-wider">PT. Perindustrian Sawit Synergi</h2>
+                        <p class="leading-relaxed text-sm">Sebagai teknisi IT saya bertanggung jawab untuk menghandle project IT infrastructure dalam pembuatan server room dengan vendor seperti penarikan kabel lan, pemasangan rak server
+                        , access door, cctv, hingga pemasangan internet metode poin to poin / poin multi to poin menggunakan radio mikrotik dan ubiquities.    
+                        </p>
+                        <p class="leading-relaxed text-sm">Sebagai IT support saya bertanggung jawab untuk bagian administrasi seperti asset management, pengadaan barang, installasi PC/Laptop, printer, pilot drone,
+                            dan juga bertanggung jawab untuk membuat aplikasi web sederhana untuk kebutuhan internal perusahaan.
+                        </p>
+                    </div>
+                    </div>
+                    <div class="flex relative pb-4">
+                    <div class="h-full w-10 absolute inset-0 flex items-center justify-center">
+                        <div class="h-full w-1 bg-gray-200 pointer-events-none"></div>
+                    </div>
+                    <div class="flex-shrink-0 w-10 h-10 rounded-full bg-gray-300 dark:bg-indigo-500 inline-flex items-center justify-center  relative z-10 font-bold">
+                        2
+                    </div>
+                    <div class="flex-grow pl-4">
+                        <h2 class="font-medium title-font text-md mb-1 tracking-wider">2017</h2>
+                        <h2 class="font-medium title-font text-md mb-1 tracking-wider">IT Support</h2>
+                        <h2 class="font-medium title-font text-md mb-1 tracking-wider">Bawaslu kaltim</h2>
+                        <p class="leading-relaxed">Magang di bawalsu samarinda selama 6 bulan dan selama magang saya membuat sebuah project CRUD sederhana untuk sebuah landing page menggunakan stack php dan bootstrap</p>
                     </div>
                     </div>
                 </div>
@@ -180,6 +185,12 @@ import domtoimage from 'dom-to-image';
 import { saveAs } from 'file-saver';
 import domToPdf from 'dom-to-pdf';
 import html2pdf from 'html2pdf.js/dist/html2pdf.min.js';
+import { get } from '@vueuse/core';
+
+const getThisYear = () => {
+    const date = new Date();
+    return date.getFullYear();
+}
 
 function exportImg(){
         var node = document.getElementById("exportData");
