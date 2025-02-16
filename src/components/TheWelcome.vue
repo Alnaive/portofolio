@@ -54,13 +54,13 @@
             /> -->
           </div>
           <div
-            class="flex space-x-4 sm:w-2/3 sm:pl-8 sm:py-8 sm:border-l border-gray-200 sm:border-t-0 border-t mt-4 pt-4 sm:mt-0 text-center sm:text-left"
+            class="lg:flex space-x-4 sm:w-2/3 sm:pl-8 sm:py-8 sm:border-l border-gray-200 sm:border-t-0 border-t mt-4 pt-4 sm:mt-0 text-center sm:text-left"
           >
             <div class="flex flex-col space-y-4">
               <h1 class="font-bold text-4xl text-white">
                 Here what you can expect from me...
               </h1>
-              <div class="card bg-primary text-primary-content w-96 ml-10">
+              <div class="card bg-primary text-primary-content w-96 lg:ml-10">
                 <div class="card-body">
                   <h2 class="card-title">Website</h2>
                   <p>Creating web app using a framework</p>
@@ -68,13 +68,13 @@
                 </div>
               </div>
               <div class="flex items-center text-center space-x-4">
-                <div class="card bg-primary text-primary-content w-56">
+                <div class="card bg-primary text-primary-content lg:w-56">
                   <div class="card-body">
                     <h2 class="card-title">Laravel</h2>
                   </div>
                 </div>
                 <div
-                  class="card items-center bg-primary text-primary-content w-56"
+                  class="card items-center bg-primary text-primary-content lg:w-56"
                 >
                   <div class="card-body">
                     <h2 class="card-title">Express.js</h2>
@@ -87,7 +87,7 @@
                 </div>
               </div>
             </div>
-            <div class="flex flex-wrap space-y-4">
+            <div class="flex flex-wrap space-y-4 mt-4">
               <div class="card bg-primary text-primary-content w-96">
                 <div class="card-body">
                   <h2 class="card-title">Infrastructure</h2>

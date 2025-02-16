@@ -1,4 +1,7 @@
 <template>
+  <h1 class="visible lg:invisible text-center p-5 text-lg font-bold">
+    Show Desktop site to dowload the CV
+  </h1>
   <div
     class="invisible md:visible flex container mx-auto items-center justify-center py-8"
   >
@@ -67,8 +70,8 @@
                   <div class="flex items-center space-x-2">
                     <Icon icon="mdi:web" width="32" height="32" />
                     <h1>
-                      <a href="https://feryperdana-gusx.vercel.app"
-                        >feryperdana-gusx.vercel.app</a
+                      <a href="https://feryperdana.vercel.app/"
+                        >feryperdana.vercel.app</a
                       >
                     </h1>
                   </div>
