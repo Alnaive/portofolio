@@ -38,8 +38,8 @@
                   class="w-32 h-32 inline-flex items-center justify-center bg-gray-200 text-gray-400"
                 >
                   <img
-                    class="object-contain"
-                    src="../../public/4_x_6_1985.jpg"
+                    class="object-contain scale-10"
+                    src="../../public/20250218_125330.jpg"
                     alt=""
                     srcset=""
                   />

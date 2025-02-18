@@ -40,7 +40,7 @@
               class="rounded-lg inline-flex items-center justify-center bg-gray-200 text-gray-400"
             >
               <img
-                class="rounded-lg h-[620px] w-[420px] object-cover"
+                class="rounded-lg lg:h-[620px] lg:w-[420px] object-cover"
                 src="../../public/20250216_204622.jpg"
                 alt=""
                 srcset=""
