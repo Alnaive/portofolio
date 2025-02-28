@@ -97,7 +97,7 @@
                       width="32"
                       height="32"
                     />
-                    <h1>Web Programmer</h1>
+                    <h1>Web Programming</h1>
                   </div>
                   <div class="flex items-center space-x-2">
                     <Icon icon="ri:building-fill" width="32" height="32" />
