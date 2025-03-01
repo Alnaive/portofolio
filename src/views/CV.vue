@@ -208,7 +208,7 @@
                     <h2
                       class="font-medium title-font text-md mb-1 tracking-wider"
                     >
-                      PT. Perindustrian Sawit Synergi
+                      PT. Perindustrian Sawit Synergi (KLK Group)
                     </h2>
                     <h1 class="">IT Technician Responsibilities:</h1>
                     <ul class="list-disc leading-relaxed text-sm ml-5">
